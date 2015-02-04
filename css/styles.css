@@ -9,6 +9,8 @@ body.bio {
 }
 
 body.style-tile {
+
+	background-image: url("../img/orion5.gif");
 	background-color: #FFFFFF;
 }
 .style-tile img{
@@ -62,14 +64,28 @@ h2, h3, p {
 }
 
 .style-tile h2 {
+	background-color: white;
+	color: black;
 	font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
 
 }
+.em {
+	background-color: white;
+	color: black;
+}
 .style-tile h3 {
-	
+	background-color: white;
+	color: black;
+}
+.em {
+	background-color: white;
+	color: black;
 }
 
 .style-tile p {
+	background-color: white;
+	color: black;
+	
 	
 }
 
@@ -89,14 +105,20 @@ h2, h3, p {
 
 .style-tile .pattern-1 {
 	background: url(../img/dark-textures.jpg);
+	background-color: white;
+	color: red;
 
 }
 .style-tile .pattern-2 {
 	background: url(../img/gravity.jpg);
+	background-color: white;
+	color: red;
 }
 
 .style-tile .pattern-3 {
 	background: url(../img/Patterns-Background.jpg);
+	background-color: white;
+	color: red;
 
 
 
