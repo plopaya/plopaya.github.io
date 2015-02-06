@@ -12,10 +12,18 @@ body.style-tile {
 	background-color: #FFFFFF;
 }
 .style-tile img{
-	height: 10em;
+	height: 8em;
 } 
 	
+ul {
 
+	font-size: 2em;
+	text-align: left;
+	background: grey;	
+	width: 400px;
+	height: 175px;
+	
+}
 
 /* HOME PAGE */
 
