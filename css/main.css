@@ -50,7 +50,7 @@ nav a.link,nav a:hover {
 }
 /* site body */
 body {
-	background-color: #F0F0F0;
+	background-color: black;
 	color: #262525;
 	font-family: 'Roboto Slab', serif;
 }
@@ -89,6 +89,6 @@ img {
 /* social-icon */
 .social-icon {
 	width: 20px;
-	height: 20px
+	height: 20px;
 	margin: 0 5px;
 }

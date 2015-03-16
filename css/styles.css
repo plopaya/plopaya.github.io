@@ -1,6 +1,7 @@
 /* GLOBAL */
 body.home {
 	background-color: #E45149;
+	list-style: none;
 
 }
 
@@ -14,13 +15,13 @@ body.style-tile {
 .style-tile img{
 	height: 8em;
 } 
-	
+/*	
 ul {
 
 	font-size: 2em;
 	text-align: left;
 	background: grey;	
-	width: 400px;
+	max-width: 100%;
 	height: 175px;
 	
 }
