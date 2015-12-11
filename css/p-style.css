@@ -392,8 +392,11 @@ img.mfp-img {
   padding-top: 0; }
 
 
-/* my Styling */
+/* my Styling to the code */
+
+
 /* portfolio page styling */
+
 .phome {
   height: 100%;
   margin: 0 auto;
@@ -427,6 +430,7 @@ img.mfp-img {
 }
 
 /* Image background styling */
+
 .images {
   background: #E45149;
   box-shadow: 10px 10px 50px white;
@@ -445,25 +449,28 @@ img.mfp-img {
   float: initial;
   margin: 3px 3px 10px 3px;
   vertical-align: middle;
-    width: 300px;
-    height: 200px;
+  width: 300px;
+  height: 200px;
     
   
 }
 .images img:hover {
- 
-  outline: 3px solid blue;
+    padding: 1em;
+    outline: 3px solid white;
 }
 .mfg-Close:after {
-content: "Close" !important;  
+    content: "Close" !important;
+
+
  
 }
 .mfp-bg {
   background: #E45149 !important;
-  opacity: .5;
+  opacity: .8;
 }
 
 /* --> Bio footer style <-- */
+
 .pfoot p {
   text-align: center;
   float: initial;

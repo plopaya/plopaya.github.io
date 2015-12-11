@@ -1,12 +1,79 @@
-.style-tile {
-	background-color: #FFFFFF;
+/* class code */
+/* DO NOT EDIT CSS */
+/* Background Images 
+.bg0 {
+  background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/45degreee_fabric.png");
 }
-.style-tile img{
-	height: 8em;
-} 
 
+.bg1 {
+  background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/pool_table.png");
+}
+
+.bg2 {
+  background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/wood_pattern.png");
+} */
+
+/* My edit code */
+/* Background Ranomizer */
+.bh5 {
+   background: url(../img/pilate5.1.jpg);
+}
+.bh4 {
+   background: url(../img/pilate.jpg);
+}
+.bh2 {
+  background: url(../img/Haben2.png);
+}
+.bh1 {
+  background: url(../img/Pilate3%20copy.jpg);
+}
+.st2 {
+   background: url(../img/Twitterlogo.png);
+}
+.st3 {
+   background: url(../img/Pilate6.JPG);
+}
+.st0 {
+  background: url(../img/pilate3.jpg);
+}
+.bh0 {
+  background: url(../img/pilate4.jpg);
+}
+.st4 {
+  background: url(../img/OPL.png);
+}
+
+.style-tile {
+	background-color: #E45149;
+    margin: 0 auto;
+}
+
+.style-tile h1{
+    margin-top: 0px;
+    width: 100%;
+    height: 100%px;
+}
+
+.style-tile h1 img {
+    height: 100%;
+    width: 100%;
+    opacity: .8;
+
+        
+}
+.style-tile h2 a {
+    background: #E45149;
+    color: black;
+    font-size: 15px;
+    width: 100%;
+    text-align: center;
+    border-radius: 10%; 
+    box-shadow: 0px 0px 10px black;
+    font-family: sans-serif;
+    text-decoration: none;
+}
 .style-tile h2 {
-	background-color: white;
+	
 	color: black;
 	font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
 
@@ -15,44 +82,105 @@
 
 }
 .style-tile h3 {
-	background-color: white;
+	
 	color: red;
 }
 .em {
-	background-color: white;
-	color: gray;
+	
+	color: black;
 }
 
 .style-tile p {
 	font-family: 'TimesNewRoman', 'Times New Roman', Times,'Baskerville',Georgia, serif; 
 	background-color: lightgrey;
 	color: black;
+    text-decoration: none;
 	
 	
 }
-
+.s1 {
+    display: inline-table;
+    position: relative;
+    box-shadow: 0 0 10px 3px black;  
+    
+}
+.s2{
+    padding: .5em;
+    display: inline-table;
+    position: relative;
+    width: 48.5px;
+      
+    
+}
+.s3 {
+    padding: .5em;
+    display: inline-table;
+    position: relative;
+    width: 48.5px;
+      
+    
+}
 .style-tile .color-1 {
-	background-color: red;
+	background-color: #E45149;
+    width: 70px;
+    height: 60px;
+    border-radius: 20%;
+    border: 3px solid black;
+    padding-bottom: 1em;
+    box-shadow: 0px 0px 20px 0px red;
 
 }
 .style-tile .color-2 {
-	background-color: gray;
+	background-color: black;
+    width: 70px;
+    height: 60px;
+    border: 3px solid black; 
+    border-radius: 20%;
+     margin: 5px 3px;
+    box-shadow: 0px 0px 20px 0px black;
+    
+   
+  
 }
 
 .style-tile .color-3 {
-	background-color: lightgrey;
+	background-color: white;
+    width: 70px;
+    height: 60px;
+    border: 3px solid black;
+    border-radius: 20%;
+    padding-bottom: 1em;
+    box-shadow: 0px 0px 20px 0px lightgray;
 }
  
 
 .style-tile .pattern-1 {
 	background: url(../img/dark-textures.jpg);
+    width: 70px;
+    height: 60px;
+    border-radius: 20%;
+    padding-bottom: 1em;
+    
+    
 	
 }
 .style-tile .pattern-2 {
 	background: url(../img/gravity.jpg);
+    width: 70px;
+    height: 60px;
+    border-radius: 20%;
+    padding-bottom: 1em;
+    margin: 5px 3px;
+  
 	
 }
 
 .style-tile .pattern-3 {
 	background: url(../img/Patterns-Background.jpg);
+    width: 70px;
+    height: 60px;
+     border-radius: 20%;
+    padding-bottom: 1em;
+    
+    
 	
