@@ -1,0 +1,106 @@
+/* --> Bio Page style <-- */
+.bhome {
+  background: #E45149;
+}
+
+/* --> Class example...Teacher code of the Revealer <-- */
+/* --> article {
+  background: #ccc;
+  margin: 0 auto;
+  padding: 2em;
+  width: 50%;
+} <-- */
+
+/* --> My Bio Article Style <-- */
+.bhome article { 
+  box-shadow: 10px 10px 50px black;
+  background: #E45149;
+  margin: 0 auto;
+  padding: 2.3em;
+  width: 75%;
+  }
+.bhome article a{
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.bhome article h3, h5{
+  text-transform: uppercase;
+  text-align: left;
+  color: #000;
+  text-decoration: none;
+  font-family: Anton, sans-serif;
+  letter-spaceing: 5px;
+  padding: 1em;
+}
+.bhome article p {
+  font-style: italic;
+  color: white;
+  font-size: 20px;
+  
+}
+.bhome article li {
+  color: white;
+  display: block;
+  font-style: italic;
+  font-size: 15px;
+}
+/* --> Bio nav style <-- */
+.bhome nav {
+  text-align: center;
+  background: #000;
+  height: 100%;
+  width: 100%;
+}
+.bhome nav ul {
+  background: #E45149;
+  margin-top: 0px;  
+}
+.bhome nav li {
+  background: #E45149;
+  box-shadow: 5px 5px 10px 10px black;
+  display: table;
+  padding: 1em;
+  display: inline-block;
+  font-family: Anton, sans-serif;
+  font-size: 20px;
+  
+}
+.bhome nav li a {
+  color: #000;
+  text-decoration: none;
+  letter-spaceing: 10px;
+  text-transform: uppercase;
+}
+
+/* --> Bio footer style <-- */
+.fbio{
+   text-align: center;
+  float: initial;
+  color: white;
+  position: absolute;
+  height: 0px;
+  width: 100%;
+  left: 0px;
+}
+.fbio p, a {
+  text-decoration: none;
+  color: black;
+}
+/* --> contact information style <-- */
+#rr {
+  text-decoration: none;
+  padding: .50em;
+  color: #000;
+  background: #E45149;
+  font-size: 15px;
+  box-shadow: 10px 5px 5px black;
+  
+}
+.cf-list li{
+  text-decoration: none;
+  font-style: italic;
+  display: block;
+  font-size: 15px;
+}

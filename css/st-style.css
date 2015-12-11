@@ -1,0 +1,58 @@
+.style-tile {
+	background-color: #FFFFFF;
+}
+.style-tile img{
+	height: 8em;
+} 
+
+.style-tile h2 {
+	background-color: white;
+	color: black;
+	font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+
+}
+
+
+}
+.style-tile h3 {
+	background-color: white;
+	color: red;
+}
+.em {
+	background-color: white;
+	color: gray;
+}
+
+.style-tile p {
+	font-family: 'TimesNewRoman', 'Times New Roman', Times,'Baskerville',Georgia, serif; 
+	background-color: lightgrey;
+	color: black;
+	
+	
+}
+
+.style-tile .color-1 {
+	background-color: red;
+
+}
+.style-tile .color-2 {
+	background-color: gray;
+}
+
+.style-tile .color-3 {
+	background-color: lightgrey;
+}
+ 
+
+.style-tile .pattern-1 {
+	background: url(../img/dark-textures.jpg);
+	
+}
+.style-tile .pattern-2 {
+	background: url(../img/gravity.jpg);
+	
+}
+
+.style-tile .pattern-3 {
+	background: url(../img/Patterns-Background.jpg);
+	
